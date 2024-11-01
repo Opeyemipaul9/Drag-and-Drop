@@ -183,7 +183,7 @@ function rebuildArrays(){
 
 function drag(e){
   draggedItem = e.target;
-  
+  console.log('draggedItem', draggedItem);
   
 }
  
